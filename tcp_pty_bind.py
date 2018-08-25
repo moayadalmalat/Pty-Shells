@@ -1,10 +1,4 @@
 #!/usr/bin/python2
-"""
-Python Bind TCP PTY Shell - testing version
-infodox - insecurety.net (2013)
-
-Binds a PTY to a TCP port on the host it is ran on.
-"""
 import os
 import pty
 import socket
