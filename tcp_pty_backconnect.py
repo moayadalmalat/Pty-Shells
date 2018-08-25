@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 """
 Reverse Connect TCP PTY Shell - v1.0
-infodox - insecurety.net (2013)
+
 
 Gives a reverse connect PTY over TCP.
 
