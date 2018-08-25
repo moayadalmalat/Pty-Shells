@@ -1,7 +1,6 @@
 #!/usr/bin/python2
 """
 Reverse Connect UDP PTY Shell - testing version
-infodox - insecurety.net (2013)
 
 Please note this may not work and I need to clean it up.
 It is also COMPLETELY untested as right now I do not have a
