@@ -1,8 +1,5 @@
 #!/usr/bin/python2
 """
-Reverse Connect SCTP PTY Shell - testing version
-infodox - insecurety.net (2013)
-
 For an excellent listener use the following socat command:
 socat file:`tty`,echo=0,raw sctp-listen:PORT
 
